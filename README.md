@@ -6,7 +6,7 @@ Poli sendiri adalah sebuah aplikasi virtual asisten berbasis chatbot yang dapat 
 
 Di project ini kami membuat web dan mobile appnya dimana saya pada bagian web sedangkan [Ramadhan Fauzi Azhar](ttps://github.com/DhaniFauzi/) membuat mobile appnya.
 
-## Link Powerpoint
+## Link Powerpoint ([klik disini](https://docs.google.com/presentation/d/10fo4D1fDanBXjrmUoQPyTgO2SSrXGNjB/edit?usp=sharing&ouid=114853264552823981626&rtpof=true&sd=true))
 ![preview](https://i.ibb.co/kc0hkJw/Whats-App-Image-2022-06-24-at-17-56-55.jpg)
 Untuk ppt [klik disini](https://docs.google.com/presentation/d/10fo4D1fDanBXjrmUoQPyTgO2SSrXGNjB/edit?usp=sharing&ouid=114853264552823981626&rtpof=true&sd=true)
 
