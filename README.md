@@ -1,10 +1,10 @@
 ## Introduction
 
-Poli merupakan project yang saya buat bersama teman 1 kelas saya di kampus politeknik harapan bersama yaitu [Ramadhan Fauzi Azhar](ttps://github.com/DhaniFauzi/)
+Poli merupakan project yang saya buat bersama teman 1 kelas saya di kampus politeknik harapan bersama yaitu [Ramadhan Fauzi Azhar](https://github.com/DhaniFauzi/)
 
 Poli sendiri adalah sebuah aplikasi virtual asisten berbasis chatbot yang dapat mendeteksi gender penggunanya. Tujuan project ini adalah untuk membantu seseorang untuk mencari tau tentang prodi teknik informatika di kampus politeknik harapa bersama.
 
-Di project ini kami membuat web dan mobile appnya dimana saya pada bagian web sedangkan [Ramadhan Fauzi Azhar](ttps://github.com/DhaniFauzi/) membuat mobile appnya.
+Di project ini kami membuat web dan mobile appnya dimana saya pada bagian web sedangkan [Ramadhan Fauzi Azhar](https://github.com/DhaniFauzi/) membuat mobile appnya.
 
 ## Link Powerpoint ([klik disini](https://docs.google.com/presentation/d/10fo4D1fDanBXjrmUoQPyTgO2SSrXGNjB/edit?usp=sharing&ouid=114853264552823981626&rtpof=true&sd=true))
 ![preview](https://i.ibb.co/kc0hkJw/Whats-App-Image-2022-06-24-at-17-56-55.jpg)
